@@ -24,12 +24,4 @@ This is a collaborative project where each participant will:
 
 ---
 
-## 🌐 See it Live
-When your pull request is accepted, your profile will show up at:  
-`https://yourusername.github.io/meet-our-club`
-
-Powered by GitHub Pages ✨
-
----
-
 Made with 💜 by Girls Who Code @ SMC
