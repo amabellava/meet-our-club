@@ -13,14 +13,12 @@ This is a collaborative project where each participant will:
 
 1. **Fork** this repository to your own GitHub account  
 2. **Clone** it to your computer  
-3. Copy the `example.html` file inside the `profiles/` folder  
-4. Rename it to your name (e.g., `maria.html`)  
-5. Edit it with:
+3. Edit the `example.html` file (you can also rename it)   
+4. Edit it with:
    - Your name
    - Favorite coding language
-   - A fun fact
-6. Add a link to your profile in `index.html`  
-7. **Commit**, **push**, and **submit a Pull Request**!  
+   - A fun fact 
+5. **Commit**, **push**, and **submit a Pull Request**!  
 
 ---
 
