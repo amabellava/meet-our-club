@@ -1,13 +1,35 @@
-# meet-our-club
-GitHub workshop starter project for Girls Who Code @ SMC.
-## ✅ Your Task
+# Meet Our Club 👩‍💻
 
-1. Fork this repository to your own GitHub account
-2. Clone it to your computer
-3. Go to `profiles/` and copy `example.html`
-4. Rename it to `yourname.html` and edit your name, language, and fun fact
-5. Add a link to your profile in `index.html`
-6. Commit and push your changes
-7. Submit a Pull Request to this repo
+Welcome to our GitHub Workshop for Girls Who Code @ SMC!
 
-Let’s build something together! 🎉
+This is a collaborative project where each participant will:
+- Fork this repo
+- Add their own profile card (HTML file)
+- Submit a pull request
+
+---
+
+## ✅ Steps to Contribute
+
+1. **Fork** this repository to your own GitHub account  
+2. **Clone** it to your computer  
+3. Copy the `example.html` file inside the `profiles/` folder  
+4. Rename it to your name (e.g., `maria.html`)  
+5. Edit it with:
+   - Your name
+   - Favorite coding language
+   - A fun fact
+6. Add a link to your profile in `index.html`  
+7. **Commit**, **push**, and **submit a Pull Request**!  
+
+---
+
+## 🌐 See it Live
+When your pull request is accepted, your profile will show up at:  
+`https://yourusername.github.io/meet-our-club`
+
+Powered by GitHub Pages ✨
+
+---
+
+Made with 💜 by Girls Who Code @ SMC
