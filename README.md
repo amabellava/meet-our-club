@@ -19,7 +19,7 @@ This is a collaborative project where each participant will:
    - Favorite coding language
    - A fun fact 
 5. **Commit**, **push**, and **submit a Pull Request**!  
-
+make a change commit
 ---
 
 Made with 💜 by Girls Who Code @ SMC
